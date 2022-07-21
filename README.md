@@ -13,5 +13,9 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+-@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
+
+Thanks to the Udacity Team.
+speciall thanks to Sir Asad ali who thought us this work
+
 
