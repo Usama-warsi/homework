@@ -12,6 +12,7 @@ git hub local repository pushing on server
 ### Files Used -
 Python File Manual.yml
 
+<<<<<<< HEAD
 ### Python Files
 bikeshare.py
 
@@ -20,4 +21,12 @@ bikeshare.py
 
 ###  Credits
 -@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
+=======
+### Credits
+-@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
+
+Thanks to the Udacity Team.
+speciall thanks to Sir Asad ali who thought us this work
+
+>>>>>>> refactoring
 
